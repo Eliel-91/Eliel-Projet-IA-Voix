@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Eliel - AI Voice Assistant",
+  "description": "A sophisticated voice assistant for Eleo, powered by Gemini 2.5 Live API. Learn about Eliel's professional background in Data Management and Finance through interactive voice conversation.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
